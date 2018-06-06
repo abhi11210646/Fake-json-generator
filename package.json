@@ -1,0 +1,23 @@
+{
+  "name": "fake-json-generator",
+  "version": "1.0.1",
+  "description": "generate fake json in a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi11210646/fake-json-generator.git"
+  },
+  "keywords": [
+    "fakeJSON",
+    "fs"
+  ],
+  "author": "Abhishek Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi11210646/fake-json-generator/issues"
+  },
+  "homepage": "https://github.com/abhi11210646/fake-json-generator#readme"
+}
