@@ -1,6 +1,6 @@
 {
   "name": "fake-json-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generate fake json in a file",
   "main": "index.js",
   "scripts": {
